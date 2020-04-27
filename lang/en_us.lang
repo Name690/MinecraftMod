@@ -1,0 +1,88 @@
+// ITEMS
+item.mymod.my_item_1.name=Astral Dust
+item.mymod.my_item_2.name=Water Crystal
+item.mymod.my_item_3.name=Fire Crystal
+item.mymod.my_item_4.name=Air Crystal
+item.mymod.my_item_5.name=Earth Crystal
+item.mymod.my_sword_1.name=Astral Sword
+item.mymod.my_sword_3.name=Water Sword
+item.mymod.my_sword_4.name=Fire Sword
+item.mymod.my_sword_5.name=Air Sword
+item.mymod.my_sword_6.name=Earth Sword
+item.mymod.my_bow_1.name=Astral Bow
+item.mymod.my_arrow_1.name=Astral Arrow
+item.mymod.my_projectile_1.name=Atomic Poop
+item.mymod.my_sword_2.name=Astral Staff
+
+item.mymod.my_helmet_1.name=Astral Helmet
+item.mymod.my_chestplate_1.name=Astral Chestplate
+item.mymod.my_leggings_1.name=Astral Leggings
+item.mymod.my_boots_1.name=Astral Boots
+
+item.mymod.my_helmet_2.name=Water Helmet
+item.mymod.my_chestplate_2.name=Water Chestplate
+item.mymod.my_leggings_2.name=Water Leggings
+item.mymod.my_boots_2.name=Water Boots
+
+item.mymod.my_helmet_3.name=Fire Helmet
+item.mymod.my_chestplate_3.name=Fire Chestplate
+item.mymod.my_leggings_3.name=Fire Leggings
+item.mymod.my_boots_3.name=Fire Boots
+
+item.mymod.my_helmet_4.name=Air Helmet
+item.mymod.my_chestplate_4.name=Air Chestplate
+item.mymod.my_leggings_4.name=Air Leggings
+item.mymod.my_boots_4.name=Air Boots
+
+item.mymod.my_helmet_5.name=Earth Helmet
+item.mymod.my_chestplate_5.name=Earth Chestplate
+item.mymod.my_leggings_5.name=Earth Leggings
+item.mymod.my_boots_5.name=Earth Boots
+
+item.mymod.my_seeds_1.name=Astral Rock
+
+item.mymod.my_pickaxe_1.name=Astral Pickaxe
+item.mymod.my_axe_1.name=Astral Axe
+item.mymod.my_hoe_1.name=Astral Hoe
+item.mymod.my_shovel_1.name=Astral Shovel
+
+item.mymod.my_axe_2.name=Water Axe
+item.mymod.my_pickaxe_2.name=Water Pickaxe
+item.mymod.my_hoe_2.name=Water Hoe
+item.mymod.my_shovel_2.name=Water Shovel
+
+item.mymod.my_axe_3.name=Fire Axe
+item.mymod.my_pickaxe_3.name=Fire Pickaxe
+item.mymod.my_hoe_3.name=Fire Hoe
+item.mymod.my_shovel_3.name=Fire Shovel
+
+item.mymod.my_axe_4.name=Air Axe
+item.mymod.my_pickaxe_4.name=Air Pickaxe
+item.mymod.my_hoe_4.name=Air Hoe
+item.mymod.my_shovel_4.name=Air Shovel
+
+item.mymod.my_axe_5.name=Earth Axe
+item.mymod.my_pickaxe_5.name=Earth Pickaxe
+item.mymod.my_hoe_5.name=Earth Hoe
+item.mymod.my_shovel_5.name=Earth Shovel
+
+// BLOCKS
+tile.mymod.my_ore_1.name=Astral Ore
+tile.mymod.my_crop_1.name=Astral Bacteria
+tile.mymod.my_furnace_1.name=Compressor
+tile.mymod.my_block_1.name=Poop Carlos Raiser
+
+tile.mymod.my_ore_2.name=Water Shards
+tile.mymod.my_ore_3.name=Fire Shards
+tile.mymod.my_ore_4.name=Air Shards
+tile.mymod.my_ore_5.name=Earth Shards
+
+// ENTITIES
+entity.my_vehicle_1.name=Mech
+entity.my_mob_1.name=Astral Hunter
+entity.my_mob_2.name=Poop Carlos
+
+
+// CREATIVE TABS
+itemGroup.my_creative_tab_1=Extra Items
+

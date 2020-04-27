@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "mymod:items/my_bow_1/my_bow_1_pulling_0"
+    }
+}

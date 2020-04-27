@@ -1,0 +1,17 @@
+[
+{
+  "name": "Mobs n Tool Mod",
+  "authorList": ["Zane Saia"],
+  "description": "A mod that adds more deadly mobs and amazing weapons",
+  "version": "1.0",
+  
+  "credits": "Mod Design",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "modid": "mymod"
+}
+]
